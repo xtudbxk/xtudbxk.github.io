@@ -94,3 +94,10 @@ More papers can be see in [Google Scholar](https://scholar.google.com/citations?
 - *2022.09 - Now*, PhD, Hong Kong Polytechnic University, COMP Departure.
 - *2017.09 - 2020.06*, Master, Huazhong University of Science and Technology, School of Electronic Information and Communications.
 - *2013.09 - 2017.06*, Bachelor, Huazhong University of Science and Technology, School of Electronic Information and Communications.
+
+# 💻 Internships
+- *2022.09 - Now*, OPPO, China.
+
+# 💼 Occupation
+- *2021.09 - 2022.03*, Huya, China.
+
