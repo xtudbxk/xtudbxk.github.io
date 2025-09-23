@@ -17,42 +17,80 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+## Zhengqiang ZHANG (郑强 张)
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+I am currently a fourth-year PhD student in the Department of COMP at Hong Kong Polytechnic University (PolyU), supervised by [Prof. Lei ZHANG](https://www4.comp.polyu.edu.hk/~cslzhang/). Prior to that, I worked as Multimedia AI Algorithm Engineer at HUYA Company for about one half and one year. I received my Master's (supervised by [Prof. Xinge You](https://bmal.hust.edu.cn/EN.htm)) and Bachelor's degree at Huazhong University of Science and Technology (HUST).
+My research interests lie in image generation and image reconstrcution. Recently, I focus on diffusion generative models.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2025.09*: &nbsp;🎉🎉 Our [GPSToken](https://github.com/xtudbxk/GPSToken) is accepted by NIPS 2025.
+  
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2025</div><img src='images/gpstoken.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[GPSToken: Gaussian Parameterized Spatially-adaptive Tokenization for Image Representation and Generation](https://github.com/xtudbxk/GPSToken)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Zhengqiang ZHANG**, Rongyuan Wu, Lingchen Sun, Lei Zhang+
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
++: Corresponding author
+- A non-uniform, spatially-adaptive image tokenizer using 2D Gaussians, which allocates more tokens for complex regions while less tokens for simple regions.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/gsasr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[Generalized and Efficient 2D Gaussian Splatting for Arbitrary-scale Super-Resolution](https://github.com/ChrisDud0257/GSASR)
+
+Du Chen*, Liyi Chen*, **Zhengqiang ZHANG**, Lei Zhang+
+
+*: Equal contribution, +: Corresponding author
+- Arbitrary-scale SR via 2D Gaussian Splatting.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/frecas.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FreCaS: Efficient Higher-Resolution Image Generation via Frequency-aware Cascaded Sampling](https://github.com/xtudbxk/FreCaS)
+
+**Zhengqiang ZHANG**, Ruihuang Li, Lei Zhang+
+
++: Corresponding author
+- A training-free sampling strategy which generates higher-resolution images with pretrained diffusion models.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/ssl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SSL: A Self-similarity Loss for Improving Generative Image Super-resolution](https://github.com/ChrisDud0257/SSL)
+
+Du Chen*, **Zhengqiang ZHANG***, Jie Liang, Lei Zhang+
+
+*: Equal contribution, +: Corresponding author
+- A self-similarity loss for generative ISR task.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP</div><img src='images/tmp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TMP: Temporal Motion Propagation for Online Video Super-Resolution](https://github.com/xtudbxk/TMP)
+
+**Zhengqiang ZHANG**, Ruihuang Li, Shi Guo, Yang Cao, Lei Zhang+
+
++: Corresponding author
+- A fast motion estimation method for online VSR.
+</div>
+</div>
+
+More papers can be see in [Google Scholar](https://scholar.google.com/citations?user=UX26wSMAAAAJ).
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.09 - Now *, PhD, Hong Kong Polytechnic University, COMP Departure.
+- *2017.09 - 2020.06*, Master, Huazhong University of Science and Technology, School of Electronic Information and Communications.
+- *2013.09 - 2017.06*, Bachelor, Huazhong University of Science and Technology, School of Electronic Information and Communications.
