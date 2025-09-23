@@ -23,7 +23,7 @@ I am currently a fourth-year PhD student in the Department of COMP at Hong Kong 
 My research interests lie in image generation and image reconstrcution. Recently, I focus on diffusion generative models.
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 Our [GPSToken](https://github.com/xtudbxk/GPSToken) is accepted by NIPS 2025.
+- *2025.09*: &nbsp;🎉🎉 3 papers accepted by NIPS 2025, including 1 first-author paper.
   
 # 📝 Publications 
 
