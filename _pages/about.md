@@ -27,7 +27,7 @@ My research interests lie in image generation and image reconstrcution. Recently
   
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2025</div><img src='images/gpstoken.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2025</div><img src='images/gpstoken.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GPSToken: Gaussian Parameterized Spatially-adaptive Tokenization for Image Representation and Generation](https://github.com/xtudbxk/GPSToken)
