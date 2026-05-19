@@ -99,5 +99,5 @@ More papers can be see in [Google Scholar](https://scholar.google.com/citations?
 - *2022.09 - Now*, OPPO, China.
 
 # 💼 Occupation
-- *2021.09 - 2022.03*, Huya, China.
+- *2020.09 - 2022.03*, Huya, China.
 
