@@ -19,20 +19,22 @@ redirect_from:
 
 ## Zhengqiang ZHANG (郑强 张)
 
-I am currently a fourth-year PhD student in the Department of COMP at Hong Kong Polytechnic University (PolyU), supervised by [Prof. Lei ZHANG](https://www4.comp.polyu.edu.hk/~cslzhang/). Prior to that, I worked as Multimedia AI Algorithm Engineer at HUYA Company for about one half and one year. I received my Master's (supervised by [Prof. Xinge You](https://bmal.hust.edu.cn/EN.htm)) and Bachelor's degree at Huazhong University of Science and Technology (HUST).
-My research interests lie in image generation and image reconstrcution. Recently, I focus on diffusion generative models.
+I am currently a fourth-year PhD student in the Department of COMP at Hong Kong Polytechnic University (PolyU), supervised by [Prof. Lei ZHANG](https://www4.comp.polyu.edu.hk/~cslzhang/). Prior to that, I worked as Multimedia AI Algorithm Engineer at HUYA Company for about one and a half years. I received my Master's (supervised by [Prof. Xinge You](https://bmal.hust.edu.cn/EN.htm)) and Bachelor's degree at Huazhong University of Science and Technology (HUST).
+My research interests lie in image generation and image reconstruction. Recently, I focus on diffusion generative models and LLM-based agent frameworks, especially their native integration into image/video generation pipelines.
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 3 papers accepted by NIPS 2025, including 1 first-author paper.
+- *2025.09*: &nbsp;🎉🎉 3 papers accepted by NeurIPS 2025, including 1 first-author paper.
   
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2025</div><img src='images/gpstoken.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/gpstoken.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GPSToken: Gaussian Parameterized Spatially-adaptive Tokenization for Image Representation and Generation](https://github.com/xtudbxk/GPSToken)
 
 **Zhengqiang ZHANG**, Rongyuan Wu, Lingchen Sun, Lei Zhang+
+
+*NeurIPS 2025*
 
 +: Corresponding author
 - A non-uniform, spatially-adaptive image tokenizer using 2D Gaussians, which allocates more tokens for complex regions while less tokens for simple regions.
@@ -46,6 +48,8 @@ My research interests lie in image generation and image reconstrcution. Recently
 
 Du Chen*, Liyi Chen*, **Zhengqiang ZHANG**, Lei Zhang+
 
+*ICCV 2025*
+
 *: Equal contribution, +: Corresponding author
 - Arbitrary-scale SR via 2D Gaussian Splatting.
 </div>
@@ -57,6 +61,8 @@ Du Chen*, Liyi Chen*, **Zhengqiang ZHANG**, Lei Zhang+
 [FreCaS: Efficient Higher-Resolution Image Generation via Frequency-aware Cascaded Sampling](https://github.com/xtudbxk/FreCaS)
 
 **Zhengqiang ZHANG**, Ruihuang Li, Lei Zhang+
+
+*ICLR 2025*
 
 +: Corresponding author
 - A training-free sampling strategy which generates higher-resolution images with pretrained diffusion models.
@@ -70,28 +76,32 @@ Du Chen*, Liyi Chen*, **Zhengqiang ZHANG**, Lei Zhang+
 
 Du Chen*, **Zhengqiang ZHANG***, Jie Liang, Lei Zhang+
 
+*ACM MM 2024*
+
 *: Equal contribution, +: Corresponding author
 - A self-similarity loss for generative ISR task.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP</div><img src='images/tmp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2024</div><img src='images/tmp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TMP: Temporal Motion Propagation for Online Video Super-Resolution](https://github.com/xtudbxk/TMP)
 
 **Zhengqiang ZHANG**, Ruihuang Li, Shi Guo, Yang Cao, Lei Zhang+
 
+*IEEE TIP 2024*
+
 +: Corresponding author
 - A fast motion estimation method for online VSR.
 </div>
 </div>
 
-More papers can be see in [Google Scholar](https://scholar.google.com/citations?user=UX26wSMAAAAJ).
+More papers can be seen in [Google Scholar](https://scholar.google.com/citations?user=UX26wSMAAAAJ).
 
 
 # 📖 Educations
-- *2022.09 - Now*, PhD, Hong Kong Polytechnic University, COMP Departure.
+- *2022.09 - Now*, PhD, Hong Kong Polytechnic University, COMP Department.
 - *2017.09 - 2020.06*, Master, Huazhong University of Science and Technology, School of Electronic Information and Communications.
 - *2013.09 - 2017.06*, Bachelor, Huazhong University of Science and Technology, School of Electronic Information and Communications.
 
