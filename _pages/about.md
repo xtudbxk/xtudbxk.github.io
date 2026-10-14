@@ -44,6 +44,20 @@ My research interests lie in image generation and image reconstruction. Recently
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/memorize_when_needed.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Memorize When Needed: Decoupled Memory Control for Spatially Consistent Long-Horizon Video Generation](https://github.com/iGuoYanjun/Memorize-When-Needed)
+
+Yanjun Guo*, **Zhengqiang ZHANG***, Pengfei Wang*, Xinyue Liang, Zhiyuan Ma, Lei Zhang+
+
+*NeurIPS 2026*
+
+*: Equal contribution, +: Corresponding author
+- A decoupled framework that separates memory conditioning from generation for spatially consistent long-horizon video generation, cutting training costs while preserving the capacity for novel scene exploration.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/gpstoken.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
