@@ -33,7 +33,7 @@ My research interests lie in image generation and image reconstruction. Recently
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/logo.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LDM-is-AE: Latent Diffusion Model is an Auto-Encoder for End-to-End Image Generation](https://github.com/PolyU-VCLab/LDMisAE)
+[LDM-is-AE: Latent Diffusion Model is an Auto-Encoder for End-to-End Image Generation](https://github.com/PolyU-VCLab/LDMisAE) [\[paper\]](https://arxiv.org/abs/2609.37080) [\[code\]](https://github.com/PolyU-VCLab/LDMisAE)
 
 **Zhengqiang ZHANG**, Lingchen Sun, Rongyuan Wu, Qiaosi Yi, Xiangtao Kong, Chaodong Xiao, Lei Zhang+
 
@@ -47,7 +47,7 @@ My research interests lie in image generation and image reconstruction. Recently
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/memorize_when_needed.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Memorize When Needed: Decoupled Memory Control for Spatially Consistent Long-Horizon Video Generation](https://github.com/iGuoYanjun/Memorize-When-Needed)
+[Memorize When Needed: Decoupled Memory Control for Spatially Consistent Long-Horizon Video Generation](https://github.com/iGuoYanjun/Memorize-When-Needed) [\[paper\]](https://arxiv.org/abs/2604.18215) [\[code\]](https://github.com/iGuoYanjun/Memorize-When-Needed)
 
 Yanjun Guo\*, **Zhengqiang ZHANG**\*, Pengfei Wang\*, Xinyue Liang, Zhiyuan Ma, Lei Zhang+
 
@@ -61,7 +61,7 @@ Yanjun Guo\*, **Zhengqiang ZHANG**\*, Pengfei Wang\*, Xinyue Liang, Zhiyuan Ma, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/gpstoken.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[GPSToken: Gaussian Parameterized Spatially-adaptive Tokenization for Image Representation and Generation](https://github.com/xtudbxk/GPSToken)
+[GPSToken: Gaussian Parameterized Spatially-adaptive Tokenization for Image Representation and Generation](https://github.com/xtudbxk/GPSToken) [\[paper\]](https://arxiv.org/abs/2509.01109) [\[code\]](https://github.com/xtudbxk/GPSToken)
 
 **Zhengqiang ZHANG**, Rongyuan Wu, Lingchen Sun, Lei Zhang+
 
@@ -75,7 +75,7 @@ Yanjun Guo\*, **Zhengqiang ZHANG**\*, Pengfei Wang\*, Xinyue Liang, Zhiyuan Ma, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/gsasr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Generalized and Efficient 2D Gaussian Splatting for Arbitrary-scale Super-Resolution](https://github.com/ChrisDud0257/GSASR)
+[Generalized and Efficient 2D Gaussian Splatting for Arbitrary-scale Super-Resolution](https://github.com/ChrisDud0257/GSASR) [\[paper\]](https://arxiv.org/abs/2501.06838) [\[code\]](https://github.com/ChrisDud0257/GSASR)
 
 Du Chen\*, Liyi Chen\*, **Zhengqiang ZHANG**, Lei Zhang+
 
@@ -89,7 +89,7 @@ Du Chen\*, Liyi Chen\*, **Zhengqiang ZHANG**, Lei Zhang+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/frecas.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FreCaS: Efficient Higher-Resolution Image Generation via Frequency-aware Cascaded Sampling](https://github.com/xtudbxk/FreCaS)
+[FreCaS: Efficient Higher-Resolution Image Generation via Frequency-aware Cascaded Sampling](https://github.com/xtudbxk/FreCaS) [\[paper\]](https://arxiv.org/abs/2410.18410) [\[code\]](https://github.com/xtudbxk/FreCaS)
 
 **Zhengqiang ZHANG**, Ruihuang Li, Lei Zhang+
 
@@ -103,7 +103,7 @@ Du Chen\*, Liyi Chen\*, **Zhengqiang ZHANG**, Lei Zhang+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2024</div><img src='images/ssl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SSL: A Self-similarity Loss for Improving Generative Image Super-resolution](https://github.com/ChrisDud0257/SSL)
+[SSL: A Self-similarity Loss for Improving Generative Image Super-resolution](https://github.com/ChrisDud0257/SSL) [\[paper\]](https://arxiv.org/abs/2408.05713) [\[code\]](https://github.com/ChrisDud0257/SSL)
 
 Du Chen\*, **Zhengqiang ZHANG**\*, Jie Liang, Lei Zhang+
 
@@ -117,7 +117,7 @@ Du Chen\*, **Zhengqiang ZHANG**\*, Jie Liang, Lei Zhang+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2024</div><img src='images/tmp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[TMP: Temporal Motion Propagation for Online Video Super-Resolution](https://github.com/xtudbxk/TMP)
+[TMP: Temporal Motion Propagation for Online Video Super-Resolution](https://github.com/xtudbxk/TMP) [\[paper\]](https://arxiv.org/abs/2312.09909) [\[code\]](https://github.com/xtudbxk/TMP)
 
 **Zhengqiang ZHANG**, Ruihuang Li, Shi Guo, Yang Cao, Lei Zhang+
 
