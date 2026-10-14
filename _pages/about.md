@@ -49,7 +49,7 @@ My research interests lie in image generation and image reconstruction. Recently
 
 [Memorize When Needed: Decoupled Memory Control for Spatially Consistent Long-Horizon Video Generation](https://github.com/iGuoYanjun/Memorize-When-Needed)
 
-Yanjun Guo*, **Zhengqiang ZHANG***, Pengfei Wang*, Xinyue Liang, Zhiyuan Ma, Lei Zhang+
+Yanjun Guo\*, **Zhengqiang ZHANG**\*, Pengfei Wang\*, Xinyue Liang, Zhiyuan Ma, Lei Zhang+
 
 *NeurIPS 2026*
 
@@ -77,7 +77,7 @@ Yanjun Guo*, **Zhengqiang ZHANG***, Pengfei Wang*, Xinyue Liang, Zhiyuan Ma, Lei
 
 [Generalized and Efficient 2D Gaussian Splatting for Arbitrary-scale Super-Resolution](https://github.com/ChrisDud0257/GSASR)
 
-Du Chen*, Liyi Chen*, **Zhengqiang ZHANG**, Lei Zhang+
+Du Chen\*, Liyi Chen\*, **Zhengqiang ZHANG**, Lei Zhang+
 
 *ICCV 2025*
 
@@ -105,7 +105,7 @@ Du Chen*, Liyi Chen*, **Zhengqiang ZHANG**, Lei Zhang+
 
 [SSL: A Self-similarity Loss for Improving Generative Image Super-resolution](https://github.com/ChrisDud0257/SSL)
 
-Du Chen*, **Zhengqiang ZHANG***, Jie Liang, Lei Zhang+
+Du Chen\*, **Zhengqiang ZHANG**\*, Jie Liang, Lei Zhang+
 
 *ACM MM 2024*
 
