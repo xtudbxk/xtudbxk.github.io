@@ -23,9 +23,26 @@ I am currently a fourth-year PhD student in the Department of COMP at Hong Kong 
 My research interests lie in image generation and image reconstruction. Recently, I focus on diffusion generative models and LLM-based agent frameworks, especially their native integration into image/video generation pipelines.
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 2 papers accepted by NeurIPS 2026, including 1 first-author paper and 1 co-first-author paper.
+- *2026.07*: &nbsp;🎉 1 paper accepted by ECCV 2026.
+- *2026.02*: &nbsp;🎉 1 paper accepted by CVPR 2026.
 - *2025.09*: &nbsp;🎉🎉 3 papers accepted by NeurIPS 2025, including 1 first-author paper.
   
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/logo.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LDM-is-AE: Latent Diffusion Model is an Auto-Encoder for End-to-End Image Generation](https://github.com/PolyU-VCLab/LDMisAE)
+
+**Zhengqiang ZHANG**, Lingchen Sun, Rongyuan Wu, Qiaosi Yi, Xiangtao Kong, Chaodong Xiao, Lei Zhang+
+
+*NeurIPS 2026*
+
++: Corresponding author
+- A single-stage, end-to-end image generation framework that makes the DiT backbone itself an explicit auto-encoder, removing the external VAE and its inherited bias.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/gpstoken.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
